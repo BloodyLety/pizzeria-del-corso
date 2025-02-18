@@ -63,6 +63,8 @@ html {
 .phone-btn {
     background-color: var(--secondary-color);
     color: var(--primary-color);
+    text-align: center;
+    text-decoration: none;
 }
 
 .location-container {
