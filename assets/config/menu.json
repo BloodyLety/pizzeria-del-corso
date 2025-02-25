@@ -1,0 +1,103 @@
+[
+    {
+        "name": "Margherita",
+        "price": 5.5,
+        "ingredients": [
+            "pomodoro",
+            "mozzarella"
+        ],
+        "allergens": [
+            "lattosio"
+        ]
+    },
+    {
+        "name": "Marinara",
+        "price": 4.5,
+        "ingredients": [
+            "pomodoro",
+            "aglio"
+        ],
+        "allergens": []
+    },
+    {
+        "name": "Capricciosa",
+        "price": 8.5,
+        "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "carciofi",
+            "funghi",
+            "olive"
+        ],
+        "allergens": [
+            "lattosio",
+            "allergeni"
+        ]
+    },
+    {
+        "name": "Prosciutto",
+        "price": 8,
+        "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "prosciutto cotto"
+        ],
+        "allergens": [
+            "lattosio"
+        ]
+    },
+    {
+        "name": "Prosciutto e funghi",
+        "price": 8.5,
+        "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "prosciutto cotto",
+            "funghi"
+        ],
+        "allergens": [
+            "lattosio",
+            "allergeni"
+        ]
+    },
+    {
+        "name": "Quattro sallergensioni",
+        "price": 8.5,
+        "Ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "prosciutto cotto",
+            "funhgi",
+            "carciofi",
+            "olive"
+        ],
+        "allergens": [
+            "lattosio",
+            "allergeni"
+        ]
+    },
+    {
+        "name": "Bufala",
+        "price": 8,
+        "ingredients": [
+            "pomodoro",
+            "mozzarella di bufala"
+        ],
+        "allergens": [
+            "lattosio"
+        ]
+    },
+    {
+        "name": "Diavola",
+        "price": 8,
+        "ingedients": [
+            "pomodoro",
+            "mozzarella",
+            "salamino piccante"
+        ],
+        "allergens": [
+            "lattosio",
+            "piccante"
+        ]
+    }
+]
