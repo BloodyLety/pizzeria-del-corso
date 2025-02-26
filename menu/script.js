@@ -6,10 +6,27 @@ document.addEventListener("DOMContentLoaded", () => {
         const menuList = document.getElementById("menu-list");
         menuList.innerHTML = "";
 
-        data.forEach(pizza => {
+        data.classics.forEach(pizza => {
+            // let allergens = "";
+            // if (pizza.allergens.length > 0 ) {
+            //     allergens = pizza.allergens.join(", ");
+            // } else {
+            //     allergens = "nessuno";
+            // }
             const div = document.createElement("div");
             div.classList.add("pizza-card");
-            div.innerHTML = `<strong>${pizza.name}</strong>`
+            div.innerHTML = `
+                <div class="card-header">
+                    <p>${pizza.name}</p>
+                    <p>${pizza.price} €</p>
+                </div>
+                <p class="card-ingredients">
+                    <span>Ingredienti</span>: ${pizza.ingredients.join(", ")}
+                </p>
+                <p class="card-ingredients">
+                    <span>Allergeni</span>: ${pizza.allergens.length > 0 ? pizza.allergens.join(", ") : "nessuno"}
+                </p>
+                `
             menuList.appendChild(div)
         })
     })

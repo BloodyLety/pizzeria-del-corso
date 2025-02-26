@@ -84,6 +84,8 @@ html {
     padding: 8px;
     position: sticky;
     top: 0;
+    background-color: var(--primary-color);
+    z-index: 1000;
 
     .back-button {
         width: 100%;
@@ -100,3 +102,51 @@ html {
         cursor: pointer;
     }
 }
+
+.menu-list {
+    padding: 8px;
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 8px;
+}
+
+.pizza-card {
+    width: 100%;
+    background-color: var(--bg-color);
+    border-radius: 12px;
+    padding: 8px;
+}
+
+.card-header {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+    p {
+        margin: 0;
+        font-size: 1.5rem;
+        font-weight: bold;
+        letter-spacing: 1px;
+    }
+}
+
+.card-ingredients {
+    font-size: 1.1rem;
+    margin: 0px;
+
+    span {
+        font-weight: bold;
+    }
+}
+
+@media screen and (min-width: 769px) {
+    .menu-list {
+        grid-template-columns: repeat(2,1fr);
+    }
+}
+ @media screen and (min-width: 1280px) {
+    .menu-list {
+        grid-template-columns: repeat(3,1fr);
+    }
+ }
