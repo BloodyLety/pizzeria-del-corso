@@ -102,123 +102,102 @@
             ]
         },
         {
-            "name": "Zucchine e gamberetti",
+            "name": "Quattro formaggi",
+            "price": 8.5,
+            "ingredients": [
+                "pomodoro",
+                "mozzarella",
+                "fontina",
+                "stracchino",
+                "gorgonzola"
+            ],
+            "allergens": [
+                "lattosio"
+            ]
+        },
+        {
+            "name": "Napoli",
+            "price": 7.5,
+            "ingredients": [
+                "pomodoro",
+                "mozzarella",
+                "acciughe"
+            ],
+            "allergens": [
+                "lattosio"
+            ]
+        },
+        {
+            "name": "Siciliana",
+            "price": 7.5,
+            "ingredients": [
+                "pomodoro",
+                "acciughe",
+                "olive",
+                "capperi"
+            ],
+            "allergens": [
+                "solfiti",
+                "pesce"
+            ]
+        },
+        {
+            "name": "Romana",
+            "price": 8,
+            "ingredients": [
+                "pomodoro",
+                "mozzarella",
+                "acciughe",
+                "capperi",
+                "olive"
+            ],
+            "allergens": [
+                "lattosio",
+                "solfiti",
+                "pesce"
+            ]
+        },
+        {
+            "name": "Pugliese",
+            "price": 7,
+            "ingredients": [
+                "pomodoro",
+                "mozzarella",
+                "cipolle"
+            ],
+            "allergens": [
+                "lattosio"
+            ]
+        },
+        {
+            "name": "Valdostana",
+            "price": 8.5,
+            "ingredients": [
+                "pomodoro",
+                "mozzarella",
+                "prosciutto cotto",
+                "fontina"
+            ],
+            "allergens": [
+                "lattosio"
+            ]
+        },
+        {
+            "name": "Monferrina",
             "price": 9,
             "ingredients": [
                 "pomodoro",
                 "mozzarella",
-                "zucchine",
-                "gamberetti"
+                "funghi",
+                "scaglie di grana",
+                "pancetta coppata"
             ],
             "allergens": [
-                "lattosio",
-                "crostacei"
+                "lattosio"
             ]
         }
     ],
-
     "specials": [
-        {
-            "name": "Margherita",
-            "price": 5.5,
-            "ingredients": [
-                "pomodoro",
-                "mozzarella"
-            ],
-            "allergens": [
-                "lattosio"
-            ]
-        },
-        {
-            "name": "Marinara",
-            "price": 4.5,
-            "ingredients": [
-                "pomodoro",
-                "aglio"
-            ],
-            "allergens": []
-        },
-        {
-            "name": "Capricciosa",
-            "price": 8.5,
-            "ingredients": [
-                "pomodoro",
-                "mozzarella",
-                "carciofi",
-                "funghi",
-                "olive"
-            ],
-            "allergens": [
-                "lattosio",
-                "allergeni"
-            ]
-        },
-        {
-            "name": "Prosciutto",
-            "price": 8,
-            "ingredients": [
-                "pomodoro",
-                "mozzarella",
-                "prosciutto cotto"
-            ],
-            "allergens": [
-                "lattosio"
-            ]
-        },
-        {
-            "name": "Prosciutto e funghi",
-            "price": 8.5,
-            "ingredients": [
-                "pomodoro",
-                "mozzarella",
-                "prosciutto cotto",
-                "funghi"
-            ],
-            "allergens": [
-                "lattosio",
-                "solfiti"
-            ]
-        },
-        {
-            "name": "Quattro stagioni",
-            "price": 8.5,
-            "ingredients": [
-                "pomodoro",
-                "mozzarella",
-                "prosciutto cotto",
-                "funghi",
-                "carciofi",
-                "olive"
-            ],
-            "allergens": [
-                "lattosio",
-                "solfiti"
-            ]
-        },
-        {
-            "name": "Bufala",
-            "price": 8,
-            "ingredients": [
-                "pomodoro",
-                "mozzarella di bufala"
-            ],
-            "allergens": [
-                "lattosio"
-            ]
-        },
-        {
-            "name": "Diavola",
-            "price": 8,
-            "ingredients": [
-                "pomodoro",
-                "mozzarella",
-                "salamino piccante"
-            ],
-            "allergens": [
-                "lattosio",
-                "piccante"
-            ]
-        },
         {
             "name": "Zucchine e gamberetti",
             "price": 9,
@@ -231,6 +210,74 @@
             "allergens": [
                 "lattosio",
                 "crostacei"
+            ]
+        },
+        {
+            "name": "Salsiccia e friarielli",
+            "price": 9,
+            "ingredients": [
+                "pomodoro",
+                "mozzarella",
+                "salsiccia",
+                "friarielli"
+            ],
+            "allergens": [
+                "lattosio"
+            ]
+        },
+        {
+            "name": "Salmone e Philadelphia",
+            "price": 9,
+            "ingredients": [
+                "pomodoro",
+                "mozzarella",
+                "salmone affumicato",
+                "philadelphia"
+            ],
+            "allergens": [
+                "lattosio",
+                "pesce"
+            ]
+        },
+        {
+            "name": "Salmone e panna",
+            "price": 9,
+            "ingredients": [
+                "pomodoro",
+                "mozzarella",
+                "salmone affumicato",
+                "panna"
+            ],
+            "allergens": [
+                "lattosio"
+            ]
+        }
+    ],
+    "seasonal": [
+        {
+            "name": "Pistacchiosa",
+            "price": 10,
+            "ingredients": [
+                "mortadella",
+                "stracciatella",
+                "pistacchio"
+            ],
+            "allergens": [
+                "lattosio",
+                "frutta a guscio"
+            ]
+        },
+        {
+            "name": "Trevisana",
+            "price": 10,
+            "ingredients": [
+                "mozzarella",
+                "radicchio",
+                "gorgonzola",
+                "lardo"
+            ],
+            "allergens": [
+                "lattosio"
             ]
         }
     ]
