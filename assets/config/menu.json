@@ -195,6 +195,548 @@
             "allergens": [
                 "lattosio"
             ]
+        },
+        {
+            "name": "Uova",
+            "price": 8,
+            "ingredients": [
+                "pomodoro",
+                "mozzarella",
+                "uova"
+            ],
+            "allergens": [
+                "lattosio",
+                "uova"
+            ]
+        },
+        {
+            "name": "Olive",
+            "price": 7,
+            "ingredients": [
+                "pomodoro",
+                "mozzarella",
+                "olive"
+            ],
+            "allergens": [
+                "lattosio",
+                "solfiti"
+            ]
+        },
+        {
+            "name": "Verdure",
+            "price": 8.5,
+            "ingredients": [
+                "pomodoro",
+                "mozzarella",
+                "zucchine grigliate",
+                "melanzane grigliate",
+                "peperoni grigliati"
+            ],
+            "allergens": [
+                "lattosio"
+            ]
+        },
+        {
+            "name": "Bismark",
+            "price": 9,
+            "ingredients": [
+                "pomodoro",
+                "mozzarella",
+                "prosciutto cotto",
+                "fontina",
+                "uova"
+            ],
+            "allergens": [
+                "lattosio",
+                "uova"
+            ]
+        },
+        {
+            "name": "Crudo",
+            "price": 9,
+            "ingredients": [
+                "pomodoro",
+                "mozzarella",
+                "prosciutto crudo"
+            ],
+            "allergens": [
+                "lattosio"
+            ]
+        },
+        {
+            "name": "Speck e Brie",
+            "price": 8.5,
+            "ingredients": [
+                "pomodoro",
+                "mozzarella",
+                "Speck",
+                "brie"
+            ],
+            "allergens": [
+                "lattosio"
+            ]
+        },
+        {
+            "name": "Speck e Panna",
+            "price": 8,
+            "ingredients": [
+                "mozzarella",
+                "speck",
+                "panna"
+            ],
+            "allergens": [
+                "lattosio"
+            ]
+        },
+        {
+            "name": "Strarucola",
+            "price": 8,
+            "ingredients": [
+                "pomodoro",
+                "mozzarella",
+                "stracchino",
+                "rucola"
+            ],
+            "allergens": [
+                "lattosio"
+            ]
+        },
+        {
+            "name": "Salamino e Gorgo",
+            "price": 8.5,
+            "ingredients": [
+                "pomodoro",
+                "mozzarella",
+                "salamino piccante",
+                "gorgonzola"
+            ],
+            "allergens": [
+                "lattosio"
+            ]
+        },
+        {
+            "name": "Salsiccia e peperoni",
+            "price": 8.5,
+            "ingredients": [
+                "pomodoro",
+                "mozzarella",
+                "salsiccia",
+                "peperoni grigliati"
+            ],
+            "allergens": [
+                "lattosio"
+            ]
+        },
+        {
+            "name": "Carica",
+            "price": 9,
+            "ingredients": [
+                "pomodoro",
+                "mozzarella",
+                "salsiccia",
+                "peperoni grigliati",
+                "gorgonzola",
+                "cipolle"
+            ],
+            "allergens": [
+                "lattosio"
+            ]
+        },
+        {
+            "name": "Pere e gorgo",
+            "price": 7.5,
+            "ingredients": [
+                "mozzarella",
+                "pere",
+                "gorgonzola"
+            ],
+            "allergens": [
+                "lattosio"
+            ]
+        },
+        {
+            "name": "Americana",
+            "price": 8.5,
+            "ingredients": [
+                "pomodoro",
+                "mozzarella",
+                "wurstel",
+                "patatine fritte"
+            ],
+            "allergens": [
+                "lattosio"
+            ]
+        },
+        {
+            "name": "Chips",
+            "price": 7.5,
+            "ingredients": [
+                "pomodoro",
+                "mozzarella",
+                "patatine fritte"
+            ],
+            "allergens": [
+                "lattosio"
+            ]
+        },
+        {
+            "name": "Wurstel",
+            "price": 7.5,
+            "ingredients": [
+                "pomodoro",
+                "mozzarella",
+                "wurstel"
+            ],
+            "allergens": [
+                "lattosio"
+            ]
+        },
+        {
+            "name": "Tonno e cipolla",
+            "price": 8.5,
+            "ingredients": [
+                "pomodoro",
+                "mozzarella",
+                "tonno",
+                "cipolle"
+            ],
+            "allergens": [
+                "lattosio",
+                "pesce"
+            ]
+        },
+        {
+            "name": "Francesca",
+            "price": 8.5,
+            "ingredients": [
+                "pomodoro",
+                "mozzarella",
+                "salamino piccante",
+                "patatine fritte"
+            ],
+            "allergens": [
+                "lattosio"
+            ]
+        },
+        {
+            "name": "Letizia",
+            "price": 8.5,
+            "ingredients": [
+                "pomdoro",
+                "mozzarella di bufala",
+                "pomodorini"
+            ],
+            "allergens": [
+                "lattosio"
+            ]
+        },
+        {
+            "name": "Estate",
+            "price": 8.5,
+            "ingredients": [
+                "pomodoro",
+                "mozzarella",
+                "pomodorini",
+                "rucola",
+                "scaglie di grana"
+            ],
+            "allergens": [
+                "lattosio"
+            ]
+        },
+        {
+            "name": "Funghi",
+            "price": 7.5,
+            "ingredients": [
+                "pomodoro",
+                "mozzarella",
+                "funghi"
+            ],
+            "allergens": [
+                "lattosio",
+                "solfiti"
+            ]
+        },
+        {
+            "name": "Tre Porcellini",
+            "price": 9,
+            "ingredients": [
+                "pomodoro",
+                "mozzarella",
+                "prosciutto cotto",
+                "salamino piccante",
+                "salsiccia"
+            ],
+            "allergens": [
+                "lattosio"
+            ]
+        },
+        {
+            "name": "Noemi",
+            "price": 8.5,
+            "ingredients": [
+                "pomodoro",
+                "mozzarella",
+                "prosciutto cotto",
+                "stracchino",
+                "olive"
+            ],
+            "allergens": [
+                "lattosio",
+                "solfiti"
+            ]
+        },
+        {
+            "name": "Andrea",
+            "price": 9.5,
+            "ingredients": [
+                "pomodoro",
+                "mozzarella",
+                "verdure grigliate",
+                "prosciutto cotto",
+                "cipolle"
+            ],
+            "allergens": [
+                "lattosio"
+            ]
+        },
+        {
+            "name": "Gianluca",
+            "price": 9.5,
+            "ingredients": [
+                "pomodoro",
+                "stracchino",
+                "zucchine grigliate",
+                "prosciutto crudo",
+                "olive"
+            ],
+            "allergens": [
+                "lattosio",
+                "solfiti"
+            ]
+        },
+        {
+            "name": "Bufala e crudo",
+            "price": 10,
+            "ingredients": [
+                "pomodoro",
+                "mozzarella di bufala",
+                "prosciutto crudo"
+            ],
+            "allergens": [
+                "lattosio"
+            ]
+        },
+        {
+            "name": "Prosciutto e olive",
+            "price": 8,
+            "ingredients": [
+                "pomodoro",
+                "mozzarella",
+                "prosciutto cotto",
+                "olive"
+            ],
+            "allergens": [
+                "lattosio",
+                "olive"
+            ]
+        },
+        {
+            "name": "Panna e Prosciutto",
+            "price": 8.5,
+            "ingredients": [
+                "pomodoro",
+                "mozzarella",
+                "prosciutto cotto",
+                "panna"
+            ],
+            "allergens": [
+                "lattosio"
+            ]
+        },
+        {
+            "name": "Carbonara",
+            "price": 9,
+            "ingredients": [
+                "mozzarella",
+                "pancetta affumicata",
+                "uova",
+                "pecorino"
+            ],
+            "allergens": [
+                "lattosio",
+                "uova"
+            ]
+        },
+        {
+            "name": "Crudo e grana",
+            "price": 9.5,
+            "ingredients": [
+                "pomdoro",
+                "mozzarella",
+                "prosciutto crudo",
+                "scaglie di grana"
+            ],
+            "allergens": [
+                "lattosio"
+            ]
+        },
+        {
+            "name": "Pasticciata",
+            "price": 10,
+            "ingredients": [
+                "pomodoro",
+                "mozzarella",
+                "salsiccia",
+                "peperoni grigliati",
+                "gorgonzola",
+                "tonno",
+                "cipolle"
+            ],
+            "allergens": [
+                "lattosio"
+            ]
+        },
+        {
+            "name": "Saporita",
+            "price": 9,
+            "ingredients": [
+                "pomdoro",
+                "mozzarella",
+                "peperoni grigliati",
+                "acciughe",
+                "gorgonzola"
+            ],
+            "allergens": [
+                "lattosio",
+                "pesce"
+            ]
+        },
+        {
+            "name": "Amatriciana",
+            "price": 8.5,
+            "ingredients": [
+                "pomdoro",
+                "mozzarella",
+                "pancetta affumicata",
+                "scaglie di grana",
+                "peperoncino"
+            ],
+            "allergens": [
+                "lattosio"
+            ]
+        },
+        {
+            "name": "Gustosa",
+            "price": 8,
+            "ingredients": [
+                "pomodoro",
+                "mozzarella",
+                "salsiccia",
+                "funghi",
+                "scaglie di grana"
+            ],
+            "allergens": [
+                "lattosio",
+                "solfiti"
+            ]
+        },
+        {
+            "name": "Baffo",
+            "price": 8,
+            "ingredients": [
+                "mozzarella",
+                "prosciutto cotto",
+                "panna",
+                "olive"
+            ],
+            "allergens": [
+                "lattosio",
+                "solfiti"
+            ]
+        },
+        {
+            "name": "Salsiccia",
+            "price": 8,
+            "ingredients": [
+                "pomodoro",
+                "mozzarella",
+                "salsiccia"
+            ],
+            "allergens": [
+                "lattosio"
+            ]
+        },
+        {
+            "name": "Tonno",
+            "price": 8,
+            "ingredients": [
+                "pomodoro",
+                "mozzarella",
+                "tonno"
+            ],
+            "allergens": [
+                "lattosio",
+                "pesce"
+            ]
+        },
+        {
+            "name": "Prosciutto e carciofi",
+            "price": 8.5,
+            "ingredients": [
+                "pomodoro",
+                "mozzarella",
+                "prosciutto cotto",
+                "carciofi"
+            ],
+            "allergens": [
+                "lattosio",
+                "solfiti"
+            ]
+        },
+        {
+            "name": "Delizia",
+            "price": 9,
+            "ingredients": [
+                "mozzarella",
+                "gorgonzola",
+                "speck",
+                "noci"
+            ],
+            "allergens": [
+                "lattosio",
+                "frutta a guscio"
+            ]
+        },
+        {
+            "name": "Semplice",
+            "price": 7.5,
+            "ingredients": [
+                "pomdoro",
+                "mozzarella",
+                "stracchino",
+                "acciughe"
+            ],
+            "allergens": [
+                "lattosio",
+                "pesce"
+            ]
+        },
+        {
+            "name": "Fantasia",
+            "price": 9,
+            "ingredients": [
+                "???"
+            ],
+            "allergens": []
+        },
+        {
+            "name": "La Tua",
+            "price": "da 7.5",
+            "ingredients": [
+                "a tua scelta"
+            ],
+            "allergens": []
         }
     ],
     "specials": [
