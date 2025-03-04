@@ -40,6 +40,32 @@ document.addEventListener("DOMContentLoaded", () => {
         })
 })
 
+document.querySelectorAll(".filter").forEach(checkbox => {
+    checkbox.addEventListener("change", applyFilters);
+});
+
+document.getElementById("reset").addEventListener("click", () => {
+    document.querySelectorAll(".filter").forEach(checkbox => checkbox.checked = false);
+    applyFilters();
+});
+
+function applyFilters() {
+    let selezionati = Array.from(document.querySelectorAll(".filter:checked"))
+        .map(checkbox => checkbox.value);
+
+    console.log("Allergeni selezionati:", selezionati);
+
+    document.querySelectorAll(".pizza-card").forEach(pizza => {
+        let allergeniPizza = pizza.dataset.allergens.split(",");
+
+        // Controlla se la pizza ha uno degli allergeni selezionati
+        let haAllergeni = selezionati.some(allergene => allergeniPizza.includes(allergene));
+
+        // Mostra/nasconde la pizza in base ai filtri
+        pizza.style.display = haAllergeni ? "none" : "block";
+    });
+}
+
 function renderList(menuList, list, title) {
 
     console.log(menuList, list, title);
@@ -57,6 +83,7 @@ function renderList(menuList, list, title) {
         // }
         const div = document.createElement("div");
         div.classList.add("pizza-card");
+        div.setAttribute("data-allergens", pizza.allergens.join(","));
         div.innerHTML = `
             <div class="card-header">
                 <p>${pizza.name}</p>

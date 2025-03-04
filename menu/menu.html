@@ -8,7 +8,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="../style.css">
-    
+
     <title>Menù</title>
 </head>
 
@@ -19,11 +19,45 @@
                 <img src="../assets/images/logo.png">
             </a>
         </div>
-        <div class="menu-list" id="menu-list"> 
-        <p>Caricamento...</p>
+        <div class="filter-container">
+            <h1>Filtri</h1>
+            <div class="checkbox-container">
+                <label>
+                    <input value="lattosio" class="filter" type="checkbox">
+                    Lattosio
+                </label>
+                <label>
+                    <input value="solfiti" class="filter" type="checkbox">
+                    Solfiti
+                </label>
+                <label>
+                    <input value="piccante" class="filter" type="checkbox">
+                    Piccante
+                </label>
+                <label>
+                    <input value="pesce" class="filter" type="checkbox">
+                    Pesce
+                </label>
+                <label>
+                    <input value="uovo" class="filter" type="checkbox">
+                    Uovo
+                </label>
+                <label>
+                    <input value="frutta a guscio" class="filter" type="checkbox">
+                    Frutta a guscio
+                </label>
+                <label>
+                    <input value="crostacei" class="filter" type="checkbox">
+                    Crostacei
+                </label>
+                <button id="reset">Reset Filtri</button>
+            </div>
+        </div>
+        <div class="menu-list" id="menu-list">
+            <p>Caricamento...</p>
         </div>
     </div>
-<script src="./script.js"></script>
+    <script src="./script.js"></script>
 </body>
 
 </html>
