@@ -171,6 +171,16 @@ html {
     flex-wrap: wrap;
 }
 
+.disclaimer-card {
+    width: 100%;
+    background-color: var(--bg-color);
+    border-radius: 12px;
+    padding: 8px;
+    margin: 4px;
+    text-align: center;
+}
+
+
 @media screen and (min-width: 769px) {
     .menu-list {
         grid-template-columns: repeat(2,1fr);

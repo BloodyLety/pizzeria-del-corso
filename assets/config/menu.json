@@ -13,7 +13,7 @@
         },
         {
             "name": "Marinara",
-            "price": 4.5,
+            "price": 5,
             "ingredients": [
                 "pomodoro",
                 "aglio"
@@ -160,7 +160,7 @@
         },
         {
             "name": "Pugliese",
-            "price": 7,
+            "price": 7.5,
             "ingredients": [
                 "pomodoro",
                 "mozzarella",
@@ -266,7 +266,7 @@
         },
         {
             "name": "Speck e Brie",
-            "price": 8.5,
+            "price": 9,
             "ingredients": [
                 "pomodoro",
                 "mozzarella",
@@ -279,7 +279,7 @@
         },
         {
             "name": "Speck e Panna",
-            "price": 8,
+            "price": 9,
             "ingredients": [
                 "mozzarella",
                 "speck",
@@ -318,7 +318,7 @@
         },
         {
             "name": "Salsiccia e peperoni",
-            "price": 8.5,
+            "price": 9,
             "ingredients": [
                 "pomodoro",
                 "mozzarella",
@@ -331,7 +331,7 @@
         },
         {
             "name": "Carica",
-            "price": 9,
+            "price": 9.5,
             "ingredients": [
                 "pomodoro",
                 "mozzarella",
@@ -346,7 +346,7 @@
         },
         {
             "name": "Pere e gorgo",
-            "price": 7.5,
+            "price": 8,
             "ingredients": [
                 "mozzarella",
                 "pere",
@@ -449,7 +449,7 @@
         },
         {
             "name": "Funghi",
-            "price": 7.5,
+            "price": 8,
             "ingredients": [
                 "pomodoro",
                 "mozzarella",
@@ -462,7 +462,7 @@
         },
         {
             "name": "Tre Porcellini",
-            "price": 9,
+            "price": 9.5,
             "ingredients": [
                 "pomodoro",
                 "mozzarella",
@@ -492,7 +492,7 @@
         },
         {
             "name": "Andrea",
-            "price": 9.5,
+            "price": 10,
             "ingredients": [
                 "pomodoro",
                 "mozzarella",
@@ -506,7 +506,7 @@
         },
         {
             "name": "Gianluca",
-            "price": 9.5,
+            "price": 10,
             "ingredients": [
                 "pomodoro",
                 "stracchino",
@@ -533,7 +533,7 @@
         },
         {
             "name": "Prosciutto e olive",
-            "price": 8,
+            "price": 8.5,
             "ingredients": [
                 "pomodoro",
                 "mozzarella",
@@ -618,7 +618,7 @@
         },
         {
             "name": "Amatriciana",
-            "price": 8.5,
+            "price": 9,
             "ingredients": [
                 "pomdoro",
                 "mozzarella",
@@ -633,7 +633,7 @@
         },
         {
             "name": "Gustosa",
-            "price": 8,
+            "price": 9,
             "ingredients": [
                 "pomodoro",
                 "mozzarella",
@@ -662,7 +662,7 @@
         },
         {
             "name": "Salsiccia",
-            "price": 8,
+            "price": 8.5,
             "ingredients": [
                 "pomodoro",
                 "mozzarella",
@@ -715,7 +715,7 @@
         },
         {
             "name": "Semplice",
-            "price": 7.5,
+            "price": 8,
             "ingredients": [
                 "pomdoro",
                 "mozzarella",
