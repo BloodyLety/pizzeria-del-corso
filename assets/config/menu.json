@@ -63,7 +63,7 @@
         },
         {
             "name": "Quattro stagioni",
-            "price": 8.5,
+            "price": 9,
             "ingredients": [
                 "pomodoro",
                 "mozzarella",
@@ -103,7 +103,7 @@
         },
         {
             "name": "Quattro formaggi",
-            "price": 8.5,
+            "price": 9,
             "ingredients": [
                 "pomodoro",
                 "mozzarella",
@@ -822,6 +822,19 @@
                 "radicchio",
                 "gorgonzola",
                 "lardo"
+            ],
+            "allergens": [
+                "lattosio"
+            ]
+        },
+        {
+            "name": "Campagnola",
+            "price": 10,
+            "ingredients": [
+                "mozzarella",
+                "porri",
+                "salsiccia",
+                "provola affumicata"
             ],
             "allergens": [
                 "lattosio"

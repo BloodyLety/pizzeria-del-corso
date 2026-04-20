@@ -176,7 +176,7 @@ html {
     background-color: var(--bg-color);
     border-radius: 12px;
     padding: 8px;
-    margin-bottom: 4px;
+    margin: 8px 8px;
     text-align: center;
 }
 
