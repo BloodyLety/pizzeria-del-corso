@@ -172,11 +172,11 @@ html {
 }
 
 .disclaimer-card {
-    width: 100%;
+    /* width: 100%; */
     background-color: var(--bg-color);
     border-radius: 12px;
     padding: 8px;
-    margin: 8px 8px;
+    margin: 16px 8px;
     text-align: center;
 }
 
